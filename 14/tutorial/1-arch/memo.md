@@ -20,8 +20,11 @@
 ## **Odoo Module**
 
 > A module is a collection of functions and data that target a single purpose.
+
 > Everything in Odoo starts and ends with modules.
+
 > Odoo modules can either add brand new business logic to an Odoo system or alter and extend existing business logic. One module can be created to add your country’s accounting rules to Odoo’s generic accounting support, while a different module can add support for real-time visualisation of a bus fleet.
+
 > Terminology: developers group their business features in Odoo modules. The main user-facing modules are flagged and exposed as Apps, but a majority of the modules aren’t Apps. Modules may also be referred to as addons and the directories where the Odoo server finds them form the addons_path.
 
 ### _Composition of a module_
