@@ -26,7 +26,7 @@
 
 ### _Composition of a module_
 
-> Nono of bellow elements are mandatory. Some modules may only add data files (e.g. country-specific accounting configuration), while others may only add business objects.
+> None of bellow elements are mandatory. Some modules may only add data files (e.g. country-specific accounting configuration), while others may only add business objects.
 
 **Business objects**
 
