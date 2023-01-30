@@ -4,10 +4,13 @@
 
 ### _Final Overview_
 
+**Top level**
 ![Alt top level of "estate" module](pic/01.jpg)
 
+**First Tab**
 ![Alt click into item - first tap contents](pic/02.jpg)
 
+**Second Tab**
 ![Alt second tap contents](pic/03.jpg)
 
 ### _Goal of this chapter: Empty shell_
