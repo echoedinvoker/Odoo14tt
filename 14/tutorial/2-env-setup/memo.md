@@ -95,3 +95,71 @@ pass
 ### _Tip of useful SQL commands_
 
 ![Alt tip of useful SQL commands](pic/19.jpg)
+
+## **Run the server**
+
+### _Launch with "odoo-bin"_
+
+![Alt launch with odoo-bin](pic/20.jpg)
+
+**Intro some arguments of odoo-bin btw**
+
+- -d <database>
+- --addons-path <directories>
+  - comma-seperated list of directories in which modules are stored.
+- --limit-time-cpu <limit>
+  - Prevent the worker from using more than <limit> CPU seconds for each request.
+- --limit-time-real <limit>
+  - Prevent the worker from taking longer than <limit> seconds to process a request.
+
+![Alt tip](pic/21.jpg)
+
+### _Log in to Odoo_
+
+- Open http://localhost:8069/
+
+![Alt login with admin](pic/22.jpg)
+
+![Alt login success](pic/23.jpg)
+
+## **Enable the developer mode**
+
+> we will always assume that you have enabled the developer mode.
+
+![Alt into debug mode](pic/24.jpg)
+
+- There are several way into devveloper mode, above one is easiest.
+
+## **Extra Tools**
+
+### _Useful Git command_
+
+**Switch branches**
+![Alt useful git command: switch branch](pic/25.jpg)
+
+![Alt test with odoo-bin](pic/26.jpg)
+
+![Alt server error](pic/27.jpg)
+
+![Alt check log](pic/28.jpg)
+
+**Fetch and rebase**
+![Alt useful git command:  fetch -all --prune](pic/29.jpg)
+
+![Alt useful git command: rebase --autostash](pic/30.jpg)
+
+### _Python Debuggin_
+
+> Simply print can go long way, but a proper debugger can save a lot of time.
+
+- You can use a classic Python library debugger (pdb, pudb or ipdb), or you can use your editor’s debugger.
+- In the following example we use ipdb, but the process is similar with other libraries.
+
+**Install the library**
+![Alt install ipdb](pic/31.jpg)
+
+**Set breakpoint**
+![Alt set breakpoint](pic/32.jpg)
+
+**ipdb commands**
+![Alt ipdb commands](pic/33.jpg)
