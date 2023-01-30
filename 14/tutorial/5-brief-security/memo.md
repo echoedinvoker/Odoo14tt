@@ -17,14 +17,15 @@
       - string identifier
       - stored in **ir.model.data**
   - **country_id:id** refer to the country by using its external identifier.
-    - "refer to" is important.
+    - "refer to" is important, ":id" indicate it.
     - can be used to refer to a record regardless of its database identifier during data imports or export/import roundtrips
     - in the form **module.id**
       - if within a module, the module prefix can be left out.
   - **name**, simply name of state.
   - **code**, simply code of state.
 - **country_id, name, code** these three fields are defined in the **res.country.state** model.
-  ![Alt](pic/03.jpg)
+  - It means all column's names in data files (exclude first id), must be define in the certain model, or it can't be import properly.
+    ![Alt](pic/03.jpg)
 
 ### _Where to located file, which importing data?_
 
