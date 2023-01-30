@@ -78,7 +78,7 @@
 **Edit contents of it (Access rights)**
 ![Alt edit contents of it (its about access rights)](pic/08.jpg)
 
-**List importing data file in the **manifest.py\*\*\*\*
+**List importing data file in the \_\_manifest\_\_.py**
 ![Alt list it in the manifest](pic/10.jpg)
 
 **Launch & upgrate module**
