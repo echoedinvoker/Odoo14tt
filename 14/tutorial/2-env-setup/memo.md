@@ -59,6 +59,7 @@ pass
 ![Alt create a new fork](pic/10.jpg)
 
 - I unchecked it, but not sure what's going on...
+  - Literally, if you don't check the box, all branches will be fork.
 
 ### _Git remote_
 
