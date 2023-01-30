@@ -38,7 +38,7 @@
 
 ### _Note that data files loaded order_
 
-- The data files are sequentially loaded following their order in the **manifest**.py file. This means that if data A refers to data B, you must make sure that B is loaded before A.
+- The data files are sequentially loaded following their order in the \_\_manifest\_\_.py file. This means that if data A refers to data B, you must make sure that B is loaded before A.
 - In the case of the country states, you will note that the list of countries is loaded before the list of country states. This is because the states refer to the countries.
 
 ## **Access Rights**
