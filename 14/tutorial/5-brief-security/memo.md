@@ -32,7 +32,7 @@
 - is related to security - security folder
 - is related to views and actions - views folder
 
-### _All files that importing data must list in the **data** within **manifest**.py_
+### _All files that importing data must list in the **data** within \_\_manifest\_\_.py_
 
 ![Alt](pic/04.jpg)
 
@@ -76,7 +76,7 @@
 **Edit contents of it (Access rights)**
 ![Alt edit contents of it (its about access rights)](pic/08.jpg)
 
-**List importing data file in the **manifest.py****
+**List importing data file in the **manifest.py\*\*\*\*
 ![Alt list it in the manifest](pic/10.jpg)
 
 **Launch & upgrate module**
