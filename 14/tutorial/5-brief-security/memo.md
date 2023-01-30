@@ -83,3 +83,7 @@
 
 **Launch & upgrate module**
 ![Alt launch & upgrate module](pic/09.jpg)
+
+## **Asking AI**
+
+- https://beta.openai.com/playground/p/4OqCW9blwtjF9vLQrA3cRYrB
