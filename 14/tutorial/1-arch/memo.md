@@ -35,6 +35,7 @@
 
 - Python class
   - The fields defined in these classes are automatically mapped to database columns thanks to the ORM layer.
+    - https://beta.openai.com/playground/p/4zwIjxdUlKk1EDK50fsG9hsB
 
 **Object views**
 
