@@ -48,6 +48,8 @@
 
 ![Alt check if module installed](pic/13.jpg)
 
+- Make sure the module is installed before you can upgrade it.
+
 ![Alt re-launch server with updating module](pic/14.jpg)
 
 ![Alt log WARNINGs](pic/15.jpg)
@@ -74,6 +76,8 @@
 
 ![Alt build fields sample](pic/20.jpg)
 
+- Creating fields relies on odoo's Fields class as above.
+
 ### _Goal & Exercise: add following fields & wanted results in database_
 
 ![Alt Goal:table Schema need to be](pic/21.jpg)
@@ -82,6 +86,8 @@
 
 **Type Selection**
 ![Alt check type Selection's example](pic/23.jpg)
+
+- "help" is an optional configuration, which will be mentioned later.
 
 ### _Edit contents of model to add fields_
 
@@ -110,3 +116,18 @@
 ![Alt launch server to updating module](pic/30.jpg)
 
 ![Alt check table Schema](pic/31.jpg)
+
+## **Automatic Fields**
+
+> Odoo creates a few fields in all models1. These fields are managed by the system and can’t be written to, but they can be read if useful or necessary.
+
+- **id(Id)**
+  - The unique identifier
+- **create_date (Datetime)**
+  - Creation date of the record.
+- **create_uid (Many2one)**
+  - User who created the record.
+- **write_date (Datetime)**
+  - Last modification date of the record.
+- **write_uid (Many2one)**
+  - User who last modified the record.
