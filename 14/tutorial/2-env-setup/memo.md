@@ -54,6 +54,8 @@ pass
 
 ![Alt fork odoo](pic/09.jpg)
 
+- The fact that step 2 in the above diagram does not make any sense.
+
 ![Alt create a new fork](pic/10.jpg)
 
 - I unchecked it, but not sure what's going on...
