@@ -144,6 +144,9 @@ pass
 ![Alt check log](pic/28.jpg)
 
 **Fetch and rebase**
+
+> https://beta.openai.com/playground/p/OTlmQ0VoGcQ9Yf08rdGxfT5a
+
 ![Alt useful git command:  fetch -all --prune](pic/29.jpg)
 
 ![Alt useful git command: rebase --autostash](pic/30.jpg)
