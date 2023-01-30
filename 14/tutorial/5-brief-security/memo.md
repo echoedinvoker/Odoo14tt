@@ -43,6 +43,8 @@
 
 ## **Access Rights**
 
+> Access rights is the definition of which models can be accessed by which user groups, which is also defined using data files, so this chapter is clearly about security, but the first half is all about data files.
+
 [Reference](https://www.odoo.com/documentation/16.0/developer/reference/backend/security.html#reference-security-acl)
 
 ### _if no access rights are defined_
