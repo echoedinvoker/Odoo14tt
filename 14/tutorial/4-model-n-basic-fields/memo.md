@@ -8,7 +8,11 @@
 
 ![Alt smallest model example](pic/02.jpg)
 
+- Odoo model is defined by Python class, which inherits "models.Model".
+
 ### _CRM model & file structure_
+
+> The file structure required to load the model is more complex, requiring two **init**.py in different layers of the folder, so the following is a direct example using the CRM model "crm_recurring_plan".
 
 ![Alt CRM model example](pic/03.jpg)
 
@@ -17,6 +21,8 @@
 ![Alt __init__.py import 2 & structure](pic/05.jpg)
 
 ### _Create file structure_
+
+> The following practice is just to follow the above example to make it.
 
 ![Alt create file structure](pic/06.jpg)
 
