@@ -15,6 +15,8 @@
 
 ### _Goal of this chapter: Empty shell_
 
+> The goal of this section is to make the module of the empty shell, and to be able to find it in the website.
+
 ![Alt our goal of this chapter](pic/04.jpg)
 
 ## **Start to create the module**
