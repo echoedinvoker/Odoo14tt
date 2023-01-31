@@ -148,6 +148,8 @@
 
 [Reference](https://www.odoo.com/documentation/16.0/developer/reference/backend/orm.html#reference-orm-domains)
 
+> It is a import attribute for \<filter\>.
+
 - We use domain to select a subset of a model's records.
 
 - it is a list of criteria (conditions)
@@ -183,5 +185,7 @@
 ### _Exercise: Add filter and Group By_
 
 ![Alt exercise: add filter and group by](pic/21.jpg)
+
+- Already done in the previous exercise, so just review codes again.
 
 ![Alt filter attributes: domain and context](pic/22.jpg)
