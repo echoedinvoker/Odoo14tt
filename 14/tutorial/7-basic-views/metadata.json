@@ -1,0 +1,11 @@
+{
+    "category-v2.single.toJob": "Odoo14tt",
+    "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/7-basic-views/memo.md",
+    "chapter": "7. Basic Views",
+    "time.comsuming": 200,
+    "register.time": "2023-01-31T08:52:09Z",
+    "tag": [
+      "odoo","tutorial","ui","view","list","form","domain","filter","tree","search","group by"],
+    "articles.link": "https://www.odoo.com/documentation/16.0/developer/howtos/rdtraining/07_basicviews.html",
+    "description": "Introduce the basic three Views and challenge yourself to build each one."
+  }
