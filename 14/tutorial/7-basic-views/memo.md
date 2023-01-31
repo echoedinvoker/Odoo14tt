@@ -84,15 +84,17 @@
 
 - Advice adding the fields and tags one at a time to understand how it works.
 
-![Alt LOG: --dev xml](pic/12.jpg)
-
-- add **--dev xml** to launch will be more convenient.
-
 **Practice**
 
 ![Alt coding form view record in XML](pic/10.jpg)
 
 ![Alt page single record](pic/11.jpg)
+
+**--dev xml**
+
+> add **--dev xml** to launch will be more convenient.
+
+![Alt LOG: --dev xml](pic/12.jpg)
 
 ![Alt test it](pic/13.jpg)
 
