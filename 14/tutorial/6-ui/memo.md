@@ -198,3 +198,7 @@
 ![Alt edit contents of model to add "state" field](pic/46.jpg)
 
 ![Alt action page: "state" appear](pic/47.jpg)
+
+## **Plus: What is views in Odoo?**
+
+- [Ask AI about it](https://beta.openai.com/playground/p/jTeYKmvR3jt8MPEjCuwapyjF)
