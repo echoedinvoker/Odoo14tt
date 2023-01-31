@@ -1,0 +1,22 @@
+{
+  "category-v2.single.toJob": "Odoo14tt",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/6-ui/memo.md",
+  "chapter": "6. Finally, Some UI To Play With",
+  "time.comsuming": 152,
+  "register.time": "2023-01-31T02:43:36Z",
+  "tag": [
+    "odoo",
+    "tutorial",
+    "ui",
+    "attribute",
+    "field",
+    "view",
+    "readonly",
+    "default",
+    "date",
+    "menu",
+    "action"
+  ],
+  "articles.link": "https://www.odoo.com/documentation/16.0/developer/howtos/rdtraining/06_firstui.html",
+  "description": "Start introducing the UI, from the most common pattern Menu > Action > Views Description."
+}
