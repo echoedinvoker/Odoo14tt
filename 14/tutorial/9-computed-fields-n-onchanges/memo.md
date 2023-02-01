@@ -50,8 +50,6 @@
 
 **Exercise: Compute the total area**
 
-![Alt exercise - compute the total area](pic/05.jpg)
-
 ![Alt small sample](pic/06.jpg)
 
 ![Alt coding property model](pic/07.jpg)
@@ -64,7 +62,7 @@
 
 - it’s possible to use paths through a field as a dependency:
 
-  - pic - many2one - path
+  - ![Alt exercise - compute the total area](pic/05.jpg)
 
   - it is valid for Many2many or One2many as well.
 
