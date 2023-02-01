@@ -1,0 +1,28 @@
+{
+  "category-v2.single.toJob": "Odoo14tt",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/8-relate-bt-models/memo.md",
+  "chapter": "8. Relations Between Models",
+  "time.comsuming": 421,
+  "register.time": "2023-02-01T06:08:48Z",
+  "tag": [
+    "odoo",
+    "tutorial",
+    "ui",
+    "view",
+    "list",
+    "form",
+    "relate",
+    "many2one",
+    "one2many",
+    "field",
+    "many2many",
+    "tag",
+    "buyer",
+    "salesman",
+    "partner",
+    "comodel",
+    "inverse"
+  ],
+  "articles.link": "https://www.odoo.com/documentation/14.0/developer/howtos/rdtraining/08_relations.html",
+  "description": "Explain several ways to relate multiple models and present them in the UI."
+}
