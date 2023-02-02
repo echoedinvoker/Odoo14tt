@@ -1,13 +1,25 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/9-computed-fields-n-onchanges/memo.md",
+  "chapter": "9. Computed Fields And Onchanges",
+  "time.comsuming": 231,
+  "register.time": "2023-02-01T12:40:37Z",
   "tag": [
     "odoo",
     "tutorial",
+    "compute",
+    "depends",
+    "onchange",
+    "method",
+    "performance",
+    "orm",
+    "form",
+    "mapped",
+    "date",
+    "datetime"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.odoo.com/documentation/16.0/developer/howtos/rdtraining/09_compute_onchange.html",
+  "description": [
+    "Sometimes the value of one field is determined from the values of other fields and other times we want to help the user with data entry.",
+    "There are two concepts provided by Odoo: computed fields, onchanges."]
 }
