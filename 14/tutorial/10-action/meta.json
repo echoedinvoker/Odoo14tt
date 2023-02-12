@@ -1,13 +1,20 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/10-action/memo.md",
+  "chapter": "Chapter 10. Ready For Some Action?",
+  "time.comsuming": 200,
+  "register.time": "2023-02-02T06:33:11Z",
   "tag": [
     "odoo",
     "tutorial",
+    "button",
+    "business",
+    "logic",
+    "compute",
+    "link",
+    "type",
+    "action"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.odoo.com/documentation/16.0/developer/howtos/rdtraining/10_actions.html",
+  "description": "Explain how to make buttons and use them to trigger some actions."
 }
