@@ -1,0 +1,13 @@
+{
+  "category-v2.single.toJob": "Odoo14tt",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/11-constraints/1-check-contraint/memo.md",
+  "chapter": "11. Constraints",
+  "time.comsuming": 63,
+  "register.time": "2023-02-12T21:46:05Z",
+  "tag": [
+    "odoo",
+    "tutorial","constraint","sql","document"
+  ],
+  "articles.link": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+  "description": "Explain how to define a check constraint and name it."
+}
