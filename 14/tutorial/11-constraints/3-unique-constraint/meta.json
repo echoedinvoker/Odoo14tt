@@ -1,13 +1,13 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/11-constraints/3-unique-constraint/memo.md",
+  "chapter": "11. Constraints",
+  "time.comsuming": 43,
+  "register.time": "2023-02-13T21:21:43Z",
   "tag": [
     "odoo",
-    "tutorial",
+    "tutorial","constraint","unique"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+  "description": "Explain how to constrain the data in one or more columns to be unique."
 }
