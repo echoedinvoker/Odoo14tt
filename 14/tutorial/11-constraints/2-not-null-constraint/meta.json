@@ -1,13 +1,13 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/11-constraints/2-not-null-constraint/memo.md",
+  "chapter": "11. Constraints",
+  "time.comsuming": 29,
+  "register.time": "2023-02-12T22:24:24Z",
   "tag": [
     "odoo",
-    "tutorial",
+    "tutorial","constraint","not-null","null","simplify","syntax","multi"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+  "description": "Explain what is 'Not-null' constraint and what features it has."
 }
