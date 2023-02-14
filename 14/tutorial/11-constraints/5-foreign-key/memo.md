@@ -55,3 +55,9 @@
 ![Alt on delete cascade: delete referenced row](pic/12.jpg)
 
 ![Alt refercing row delete auto](pic/13.jpg)
+
+## **Not Finish yet...**
+
+- In addition to RESTRICT and CASCADE, there are SET NULL and SET DEFAULT, and ON DELETE and similar ON UPDATE, so I won't outline them here.
+
+- If interested, check [https://www.postgresql.org/docs/current/ddl-constraints.html]
