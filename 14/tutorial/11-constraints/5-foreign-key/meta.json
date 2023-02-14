@@ -1,13 +1,13 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/11-constraints/5-foreign-key/memo.md",
+  "chapter": "11. Constraints",
+  "time.comsuming": 53,
+  "register.time": "2023-02-14T21:35:51Z",
   "tag": [
     "odoo",
-    "tutorial",
+    "tutorial","constraint","foreign","key","sql","postgres","database"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+  "description": "Explain what is foreign-key constraint and how to set it."
 }
