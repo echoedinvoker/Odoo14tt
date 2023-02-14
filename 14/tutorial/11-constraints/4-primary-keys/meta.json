@@ -1,13 +1,13 @@
 {
   "category-v2.single.toJob": "Odoo14tt",
-  "git.link": "",
-  "chapter": "",
-  "time.comsuming": ,
-  "register.time": "",
+  "git.link": "https://github.com/echoedinvoker/Odoo14tt/blob/master/14/tutorial/11-constraints/4-primary-keys/memo.md",
+  "chapter": "11. Constraints",
+  "time.comsuming": 17,
+  "register.time": "2023-02-13T21:49:30Z",
   "tag": [
     "odoo",
-    "tutorial",
+    "tutorial","constraint","primary","key"
   ],
-  "articles.link": "",
-  "description": ""
+  "articles.link": "https://www.postgresql.org/docs/current/ddl-constraints.html",
+  "description": "Explain what is primary key, and why we put it in chapter of constraints."
 }
